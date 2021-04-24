@@ -1,0 +1,36 @@
+.p-5 {
+	padding: 0rpx 30rpx;
+}
+
+.spacing {
+	margin-top: 20rpx;
+}
+
+.wholelist .van-cell {
+	border-radius: 15rpx 15rpx 0rpx 0rpx;
+}
+
+.wholelist .van-card {
+	border-radius: 0rpx 0rpx 15rpx 15rpx;
+	background-color: #ffffff;
+}
+
+.wholelist .van-button {
+	width: 158rpx;
+	text-align: center;
+	background: #FFFFFF;
+	border: 2rpx solid #7A7A7A;
+	border-radius: 20rpx;
+	margin: 0rpx 15rpx;
+}
+.wholelist .van-button.orange{
+	color: #ea8b78;
+}
+.salesorder{
+	font-size: 25rpx;
+	color: #646566;
+}
+.sign .van-tag{
+	margin-left: 20rpx;
+	border-radius: 20rpx;
+	}
